@@ -8,7 +8,7 @@ Choose **New visit**, enter a property name, and add the details you want includ
 
 Open an area to edit its name, check its completion status, add before-and-after photos, and enter notes. Use **Save** to save the visit. Cancelling with unsaved changes asks whether to discard them.
 
-Photos are selected through Apple's system photo picker. VisitPaper copies selected images into its own storage, resizes them for reports, and does not modify the originals. Cloud-only photos may need an internet connection to download through Apple's photo picker before importing. Afterwards the visit can be edited without an internet connection.
+Choose photos through Apple's system photo picker, or use **Choose image file** to import a local image. VisitPaper copies selected images into its own storage, resizes them for reports, and does not modify the originals. Cloud-only photos may need an internet connection to download through Apple's photo picker before importing. Afterwards the visit can be edited without an internet connection.
 
 ## Share a report
 
