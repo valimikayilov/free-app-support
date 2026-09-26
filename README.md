@@ -29,6 +29,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [RasterNest help](rasternest/support.md)
 - [RasterNest privacy policy](rasternest/privacy.md)
 
+## Stagefold
+
+Reusable presentation agendas, manual or automatic cue timing, a separate stage display, and local rehearsal reports.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [Stagefold help](stagefold/support.md)
+- [Stagefold privacy policy](stagefold/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
