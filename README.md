@@ -20,6 +20,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [Branchlet help](branchlet/support.md)
 - [Branchlet privacy policy](branchlet/privacy.md)
 
+## RasterNest
+
+Local image batches with proportional resizing, format conversion, encoded previews, and saved recipes. Every export uses a new folder.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [RasterNest help](rasternest/support.md)
+- [RasterNest privacy policy](rasternest/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
