@@ -1,6 +1,6 @@
 # Free apps by Vali Mikayilov
 
-Support and privacy information for independently developed apps. Apps listed here are free to download and use. They contain no subscriptions, in-app purchases, or advertising.
+Support and privacy information for independently developed apps. These apps are designed to be free to download and use, with no subscriptions, in-app purchases, or advertising. See each app's release status below.
 
 ## VisitPaper
 
@@ -10,6 +10,18 @@ Release status: in preparation. An App Store link will be added after approval.
 
 - [VisitPaper help](visitpaper/support.md)
 - [VisitPaper privacy policy](visitpaper/privacy.md)
-- [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new)
+
+## Branchlet
+
+Rotate branches to connect a puzzle board. Daily puzzles, generated practice boards, hints, undo, and replay codes work without an account.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [Branchlet help](branchlet/support.md)
+- [Branchlet privacy policy](branchlet/privacy.md)
+
+## Support
+
+[Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
 
 Support issues are public. Describe the problem without uploading customer names, addresses, photos, or other private information.
