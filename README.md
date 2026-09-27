@@ -56,6 +56,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [HashQuay help](hashquay/support.md)
 - [HashQuay privacy policy](hashquay/privacy.md)
 
+## LineHarbor
+
+Local text comparison with line numbers, whitespace and case options, editable drafts, and standalone HTML reports.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [LineHarbor help](lineharbor/support.md)
+- [LineHarbor privacy policy](lineharbor/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
