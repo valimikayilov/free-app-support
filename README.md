@@ -92,6 +92,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [RecallPier help](recallpier/support.md)
 - [RecallPier privacy policy](recallpier/privacy.md)
 
+## PulseCove
+
+Offline click-track building with tempo ramps, beat accents, swing, waveform preview, WAV export, and portable JSON projects.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [PulseCove help](pulsecove/support.md)
+- [PulseCove privacy policy](pulsecove/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
