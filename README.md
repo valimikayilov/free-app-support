@@ -65,6 +65,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [LineHarbor help](lineharbor/support.md)
 - [LineHarbor privacy policy](lineharbor/privacy.md)
 
+## MeridianPane
+
+Offline world clocks and meeting planning with working-hour overlap, explicit clock-change choices, and local calendar-file exports.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [MeridianPane help](meridianpane/support.md)
+- [MeridianPane privacy policy](meridianpane/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
