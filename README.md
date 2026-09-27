@@ -47,6 +47,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [FolioSplice help](foliosplice/support.md)
 - [FolioSplice privacy policy](foliosplice/privacy.md)
 
+## HashQuay
+
+Local file checksums with SHA-256/SHA-512/SHA-1/MD5, expected-value comparison, CSV reports, and saved manifest verification.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [HashQuay help](hashquay/support.md)
+- [HashQuay privacy policy](hashquay/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
