@@ -83,6 +83,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [ChromaMoor help](chromamoor/support.md)
 - [ChromaMoor privacy policy](chromamoor/privacy.md)
 
+## RecallPier
+
+Local study decks, scheduled reviews, practice without rescheduling, CSV imports, portable decks, and full library backups.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [RecallPier help](recallpier/support.md)
+- [RecallPier privacy policy](recallpier/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
