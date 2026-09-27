@@ -74,6 +74,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [MeridianPane help](meridianpane/support.md)
 - [MeridianPane privacy policy](meridianpane/privacy.md)
 
+## ChromaMoor
+
+Local color palettes, image color extraction, text-contrast checks, and JSON/CSS/SVG exports with library backups.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [ChromaMoor help](chromamoor/support.md)
+- [ChromaMoor privacy policy](chromamoor/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
