@@ -38,6 +38,15 @@ Release status: in preparation. An App Store link will be added after approval.
 - [Stagefold help](stagefold/support.md)
 - [Stagefold privacy policy](stagefold/privacy.md)
 
+## FolioSplice
+
+A local PDF page workspace for combining documents, arranging and rotating pages, exporting selections, and splitting into smaller PDFs.
+
+Release status: in preparation. An App Store link will be added after approval.
+
+- [FolioSplice help](foliosplice/support.md)
+- [FolioSplice privacy policy](foliosplice/privacy.md)
+
 ## Support
 
 [Ask for help or report a problem](https://github.com/valimikayilov/free-app-support/issues/new).
